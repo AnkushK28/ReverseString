@@ -10,7 +10,6 @@ public class ReverseString
 
     public ReverseString()
     {
-
     }
 
     @NotNull(message = "invalid input")
